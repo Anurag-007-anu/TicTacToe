@@ -1,0 +1,2 @@
+How to code a Tic Tac Toe game in Javafor beginners! Learn how to create a game of Tic Tac Toe in Java using the awt and swing graphics library. Throughout the tutorial, you will learn how to create a graphical user interface (GUI) to display the Tic Tac Toe game, and check win or tie conditions using a 2D array.
+<img width="899" alt="image" src="https://github.com/Anurag-007-anu/TicTacToe/assets/113625916/f1565e3b-5a21-420d-b076-1e41b351365c">
